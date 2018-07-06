@@ -1,6 +1,6 @@
 {
   "name": "ui-select-infinity",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "description": "extension of ui-select to support infinity list of items ",
   "main": "lib/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hyzhak/ui-select-infinity.git"
+    "url": "git+https://github.com/bastidiaaz/ui-select-infinity-ie.git"
   },
   "keywords": [
     "ui-select",

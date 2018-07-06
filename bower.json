@@ -1,6 +1,6 @@
 {
   "name": "ui-select-infinity-ie",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "homepage": "https://github.com/bastidiaaz/ui-select-infinity-ie",
   "description": "Extend `ui-select` with feature of infinity scrolling",
   "main": "lib/index.js",
