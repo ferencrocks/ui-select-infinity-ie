@@ -6,7 +6,7 @@ This is a fork of https://github.com/hyzhak/ui-select-infinity that also works f
 ## Installing
 
 ```
-bower install --save ui-select-infinity-ie
+npm install --save ui-select-infinity-ie
 ```
 
 ## Example
